@@ -1,4 +1,4 @@
-# Color Palettes Generator | Rainbow B.F.F. | aykutsoyuk@gmail.com | www.linkedin.com/in/aykutsoyuk
+# Color Palettes Generator | Rainbow B.F.F.
 
 Rainbow’s B.F.F. is the first project that i contributed to. In this writing, you will be informed of some topics about that process. 
 -Which technologies did I use? 
@@ -38,4 +38,4 @@ Rainbow’s B.F.F. is the first project that i contributed to. In this writing, 
 
 Many thanks to macitege, for encouraging me to get into the source files of the project.
 
-https://camo.githubusercontent.com/a615c7e1ef9a850f5427cdc153186763305bb853/68747470733a2f2f692e696d6775722e636f6d2f4472386a3569762e676966
+#### aykutsoyuk@gmail.com | www.linkedin.com/in/aykutsoyuk
